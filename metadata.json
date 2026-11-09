@@ -1,0 +1,6 @@
+{
+  "name": "PayAgent AI",
+  "description": "Autonomous PayPal Commerce & Escrow Agent with real-time reasoning trace, Generative UI checkout cards, and live/simulated PayPal Sandbox integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
